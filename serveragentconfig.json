@@ -1,0 +1,21 @@
+{
+  "PerformanceDataWriterTimeInterval": 10,
+  "PerformanceDataCollectionTimeInterval": 5,
+  "NetworkUsageDataCollectionTimeInterval": 10,
+  "RemoteConnectionsDataCollectionTimeInterval": 10,
+  "InventoryDataCollectionTimeInterval": 59, 
+  "EnablePerformanceDataCollection": true,
+  "EnableNetworkUsageDataCollection": true,
+  "EnableRemoteConnectionDataCollection": true,
+  "EnableInevntoryDataCollection": true,
+  "NetworkShareRoortPath": "/mnt/Backups/Ensight",
+  "NetworkUsageDataNetworkShareRootPath": "/mnt/Backups/Ensight/networkusage/",
+  "RemoteConnectionsDataNetworkShareRootPath": "/mnt/Backups/Ensight/remoteconnections/",
+  "PerformanceDataNetworkShareRootPath": "/mnt/Backups/Ensight/performance/",
+  "WebAPIUrl": "https://ensightwebapis.azurewebsites.net",
+  "WebTestUrl": "https://ensightwebapis.azurewebsites.net",
+  "ClientKey": "sKRlnoLG4LPiURl0T8q9i8GqWuLAVNx05n43H88XQsB87smozN",
+  "EnableLogging": true,
+  "Type": "serveragent",
+  "AssessmentID": "A6FDA7DB-FD1B-46C8-BA10-368BFE30000B"
+}
