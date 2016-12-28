@@ -50,7 +50,7 @@ for value in inventory_list:
 
 if __name__ == "__main__":
     timestamp = time.strftime("%Y%m%d-%H%M%S")
-    path_network_shared_location = json.loads(open("/mnt/Backups/Ensight/configurations/serveragentconfig.json").read())["InventoryDataNetworkShareRootPath"]
+    path_network_shared_location = json.loads(open("location of config file").read())["InventoryDataNetworkShareRootPath"]
     filename = os.path.expanduser(path_network_shared_location) + name_host.strip() + log_file_name_text + timestamp + '.json'
     od_all = collections.OrderedDict(sorted(return_dict_all_values.items()))
     file_handler = open(filename,'a+') 

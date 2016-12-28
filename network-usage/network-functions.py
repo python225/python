@@ -157,7 +157,7 @@ all_values = nics_report()
 if __name__ == "__main__":
     od_all = collections.OrderedDict(sorted(all_values.items()))
     timestamp = time.strftime("%Y%m%d-%H%M%S")
-    path_network_shared_location = json.loads(open("/mnt/Backups/Ensight/configurations/config.json").read())["NetworkUsageDataNetworkShareRootPath"]
+    path_network_shared_location = json.loads(open("config file location").read())["NetworkUsageDataNetworkShareRootPath"]
     filename = os.path.expanduser(path_network_shared_location) + name_of_host.strip() + log_file_name_text + timestamp + '.json'
     file_handler = open(filename,'a+') 
     text_json = json.dumps(od_all, indent=4)

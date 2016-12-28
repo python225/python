@@ -1,0 +1,1973 @@
+{
+    "DNSHostName": "localhost.localdomain", 
+    "DiskTotalSize": "42.9\n", 
+    "Disks": {
+        "DeviceID: /dev/sda2": [
+            {
+                "mount_point": "/boot"
+            }, 
+            {
+                "Total_disk": "0.47GB"
+            }, 
+            {
+                "Percent_used": 22.8
+            }
+        ], 
+        "DeviceID: /dev/mapper/VolGroup00-LogVol00": [
+            {
+                "mount_point": "/"
+            }, 
+            {
+                "Total_disk": "36.97GB"
+            }, 
+            {
+                "Percent_used": 4.3
+            }
+        ]
+    }, 
+    "DomainName": "localdomain", 
+    "HostName": "localhost", 
+    "Manufacturer": "innotek GmbH\n", 
+    "Model": "\tUUID: C81F09C4-F40B-455F-A0B1-60593B080F80\n", 
+    "NICs": {
+        "eth0": [
+            {
+                "broadcast": "10.0.2.255", 
+                "netmask": "255.255.255.0", 
+                "inet": "10.0.2.15"
+            }, 
+            {
+                "MAC Address": "52:54:00:c5:83:ad"
+            }, 
+            {
+                "Recevied Bytes": "17360895 bytes"
+            }, 
+            {
+                "Transmitted Bytes": "17012866 bytes"
+            }, 
+            {
+                "DHCP status": "Dhcp disabled"
+            }
+        ]
+    }, 
+    "NumberOfLogicalProcessors": 1, 
+    "NumberOfProcessors": 1, 
+    "OperatingSystem": [
+        {
+            "Description": "Linux-3.10.0-327.28.3.el7.x86_64-x86_64-with-centos-7.2.1511-Core", 
+            "ProductName": "CentOS Linux", 
+            "Machine": "x86_64", 
+            "Release": "3.10.0-327.28.3.el7.x86_64", 
+            "Processor": "x86_64", 
+            "System OS": "Linux"
+        }
+    ], 
+    "ReportDateTime": "2016-12-13 19:47:48.566109", 
+    "Softwares": [
+        {
+            "ProductName:": "NetworkManager.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "1:1.0.6-30.el7_2"
+        }, 
+        {
+            "ProductName:": "NetworkManager-libnm.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "1:1.0.6-30.el7_2"
+        }, 
+        {
+            "ProductName:": "NetworkManager-team.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "1:1.0.6-30.el7_2"
+        }, 
+        {
+            "ProductName:": "NetworkManager-tui.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "1:1.0.6-30.el7_2"
+        }, 
+        {
+            "ProductName:": "acl.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.2.51-12.el7"
+        }, 
+        {
+            "ProductName:": "aic94xx-firmware.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "30-6.el7"
+        }, 
+        {
+            "ProductName:": "alsa-firmware.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.0.28-2.el7"
+        }, 
+        {
+            "ProductName:": "alsa-lib.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.0.28-2.el7"
+        }, 
+        {
+            "ProductName:": "alsa-tools-firmware.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.0.28-2.el7"
+        }, 
+        {
+            "ProductName:": "audit.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.4.1-5.el7"
+        }, 
+        {
+            "ProductName:": "audit-libs.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.4.1-5.el7"
+        }, 
+        {
+            "ProductName:": "authconfig.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "6.2.8-10.el7"
+        }, 
+        {
+            "ProductName:": "avahi-autoipd.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "0.6.31-15.el7_2.1"
+        }, 
+        {
+            "ProductName:": "avahi-libs.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "0.6.31-15.el7_2.1"
+        }, 
+        {
+            "ProductName:": "basesystem.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "10.0-7.el7.centos"
+        }, 
+        {
+            "ProductName:": "bash.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "4.2.46-20.el7_2"
+        }, 
+        {
+            "ProductName:": "bash-completion.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "1:2.1-6.el7"
+        }, 
+        {
+            "ProductName:": "bind-libs.x86_64", 
+            "Vendor": "@updates", 
+            "Version:": "32:9.9.4-29.el7_2.4"
+        }, 
+        {
+            "ProductName:": "bind-libs-lite.x86_64", 
+            "Vendor": "@updates", 
+            "Version:": "32:9.9.4-29.el7_2.4"
+        }, 
+        {
+            "ProductName:": "bind-license.noarch", 
+            "Vendor": "@updates", 
+            "Version:": "32:9.9.4-29.el7_2.4"
+        }, 
+        {
+            "ProductName:": "bind-utils.x86_64", 
+            "Vendor": "@updates", 
+            "Version:": "32:9.9.4-29.el7_2.4"
+        }, 
+        {
+            "ProductName:": "binutils.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.23.52.0.1-55.el7"
+        }, 
+        {
+            "ProductName:": "biosdevname.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.6.2-1.el7"
+        }, 
+        {
+            "ProductName:": "btrfs-progs.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "3.19.1-1.el7"
+        }, 
+        {
+            "ProductName:": "bzip2.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.0.6-13.el7"
+        }, 
+        {
+            "ProductName:": "bzip2-libs.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.0.6-13.el7"
+        }, 
+        {
+            "ProductName:": "ca-certificates.noarch", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "2015.2.6-70.1.el7_2"
+        }, 
+        {
+            "ProductName:": "centos-indexhtml.noarch", 
+            "Vendor": "@base", 
+            "Version:": "7-9.el7.centos"
+        }, 
+        {
+            "ProductName:": "centos-logos.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "70.0.6-3.el7.centos"
+        }, 
+        {
+            "ProductName:": "centos-release.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "7-2.1511.el7.centos.2.10"
+        }, 
+        {
+            "ProductName:": "chkconfig.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "1.3.61-5.el7_2.1"
+        }, 
+        {
+            "ProductName:": "chrony.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.1.1-1.el7.centos"
+        }, 
+        {
+            "ProductName:": "coreutils.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "8.22-15.el7_2.1"
+        }, 
+        {
+            "ProductName:": "cpio.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.11-24.el7"
+        }, 
+        {
+            "ProductName:": "cpp.x86_64", 
+            "Vendor": "@base", 
+            "Version:": "4.8.5-4.el7"
+        }, 
+        {
+            "ProductName:": "cracklib.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.9.0-11.el7"
+        }, 
+        {
+            "ProductName:": "cracklib-dicts.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.9.0-11.el7"
+        }, 
+        {
+            "ProductName:": "cronie.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "1.4.11-14.el7_2.1"
+        }, 
+        {
+            "ProductName:": "cronie-anacron.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "1.4.11-14.el7_2.1"
+        }, 
+        {
+            "ProductName:": "crontabs.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.11-6.20121102git.el7"
+        }, 
+        {
+            "ProductName:": "cryptsetup-libs.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.6.7-1.el7"
+        }, 
+        {
+            "ProductName:": "curl.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "7.29.0-25.el7.centos"
+        }, 
+        {
+            "ProductName:": "cyrus-sasl-lib.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "2.1.26-20.el7_2"
+        }, 
+        {
+            "ProductName:": "dbus.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "1:1.6.12-14.el7_2"
+        }, 
+        {
+            "ProductName:": "dbus-glib.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.100-7.el7"
+        }, 
+        {
+            "ProductName:": "dbus-libs.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "1:1.6.12-14.el7_2"
+        }, 
+        {
+            "ProductName:": "dbus-python.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.1.1-9.el7"
+        }, 
+        {
+            "ProductName:": "deltarpm.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "3.6-3.el7"
+        }, 
+        {
+            "ProductName:": "device-mapper.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "7:1.02.107-5.el7_2.5"
+        }, 
+        {
+            "ProductName:": "device-mapper-event.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "7:1.02.107-5.el7_2.5"
+        }, 
+        {
+            "ProductName:": "device-mapper-event-libs.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "7:1.02.107-5.el7_2.5"
+        }, 
+        {
+            "ProductName:": "device-mapper-libs.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "7:1.02.107-5.el7_2.5"
+        }, 
+        {
+            "ProductName:": "dhclient.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "12:4.2.5-42.el7.centos"
+        }, 
+        {
+            "ProductName:": "dhcp.x86_64", 
+            "Vendor": "@base", 
+            "Version:": "12:4.2.5-42.el7.centos"
+        }, 
+        {
+            "ProductName:": "dhcp-common.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "12:4.2.5-42.el7.centos"
+        }, 
+        {
+            "ProductName:": "dhcp-libs.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "12:4.2.5-42.el7.centos"
+        }, 
+        {
+            "ProductName:": "diffutils.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "3.3-4.el7"
+        }, 
+        {
+            "ProductName:": "dmidecode.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1:2.12-9.el7"
+        }, 
+        {
+            "ProductName:": "dnsmasq.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.66-14.el7_1"
+        }, 
+        {
+            "ProductName:": "dracut.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "033-360.el7_2.1"
+        }, 
+        {
+            "ProductName:": "dracut-config-rescue.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "033-360.el7_2.1"
+        }, 
+        {
+            "ProductName:": "dracut-network.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "033-360.el7_2.1"
+        }, 
+        {
+            "ProductName:": "dstat.noarch", 
+            "Vendor": "@base", 
+            "Version:": "0.7.2-12.el7"
+        }, 
+        {
+            "ProductName:": "e2fsprogs.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.42.9-7.el7"
+        }, 
+        {
+            "ProductName:": "e2fsprogs-libs.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.42.9-7.el7"
+        }, 
+        {
+            "ProductName:": "ebtables.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.0.10-13.el7"
+        }, 
+        {
+            "ProductName:": "elfutils-libelf.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.163-3.el7"
+        }, 
+        {
+            "ProductName:": "elfutils-libs.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.163-3.el7"
+        }, 
+        {
+            "ProductName:": "ethtool.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2:3.15-2.el7"
+        }, 
+        {
+            "ProductName:": "expat.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.1.0-8.el7"
+        }, 
+        {
+            "ProductName:": "file.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "5.11-31.el7"
+        }, 
+        {
+            "ProductName:": "file-libs.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "5.11-31.el7"
+        }, 
+        {
+            "ProductName:": "filesystem.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "3.2-20.el7"
+        }, 
+        {
+            "ProductName:": "findutils.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1:4.5.11-5.el7"
+        }, 
+        {
+            "ProductName:": "fipscheck.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.4.1-5.el7"
+        }, 
+        {
+            "ProductName:": "fipscheck-lib.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.4.1-5.el7"
+        }, 
+        {
+            "ProductName:": "firewalld.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.3.9-14.el7"
+        }, 
+        {
+            "ProductName:": "freetype.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.4.11-11.el7"
+        }, 
+        {
+            "ProductName:": "fxload.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2002_04_11-16.el7"
+        }, 
+        {
+            "ProductName:": "gawk.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "4.0.2-4.el7"
+        }, 
+        {
+            "ProductName:": "gcc.x86_64", 
+            "Vendor": "@base", 
+            "Version:": "4.8.5-4.el7"
+        }, 
+        {
+            "ProductName:": "gdbm.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.10-8.el7"
+        }, 
+        {
+            "ProductName:": "gettext.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.18.2.1-4.el7"
+        }, 
+        {
+            "ProductName:": "gettext-libs.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.18.2.1-4.el7"
+        }, 
+        {
+            "ProductName:": "git.x86_64", 
+            "Vendor": "@updates", 
+            "Version:": "1.8.3.1-6.el7_2.1"
+        }, 
+        {
+            "ProductName:": "glib-networking.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.42.0-1.el7"
+        }, 
+        {
+            "ProductName:": "glib2.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.42.2-5.el7"
+        }, 
+        {
+            "ProductName:": "glibc.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "2.17-106.el7_2.8"
+        }, 
+        {
+            "ProductName:": "glibc-common.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "2.17-106.el7_2.8"
+        }, 
+        {
+            "ProductName:": "glibc-devel.x86_64", 
+            "Vendor": "@updates", 
+            "Version:": "2.17-106.el7_2.8"
+        }, 
+        {
+            "ProductName:": "glibc-headers.x86_64", 
+            "Vendor": "@updates", 
+            "Version:": "2.17-106.el7_2.8"
+        }, 
+        {
+            "ProductName:": "gmp.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "1:6.0.0-12.el7_1"
+        }, 
+        {
+            "ProductName:": "gnupg2.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.0.22-3.el7"
+        }, 
+        {
+            "ProductName:": "gnutls.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "3.3.8-14.el7_2"
+        }, 
+        {
+            "ProductName:": "gobject-introspection.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.42.0-1.el7"
+        }, 
+        {
+            "ProductName:": "gpgme.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.3.2-5.el7"
+        }, 
+        {
+            "ProductName:": "grep.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.20-2.el7"
+        }, 
+        {
+            "ProductName:": "groff-base.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.22.2-8.el7"
+        }, 
+        {
+            "ProductName:": "grub2.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "1:2.02-0.34.el7.centos"
+        }, 
+        {
+            "ProductName:": "grub2-tools.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "1:2.02-0.34.el7.centos"
+        }, 
+        {
+            "ProductName:": "grubby.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "8.28-17.el7"
+        }, 
+        {
+            "ProductName:": "gsettings-desktop-schemas.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "3.14.2-1.el7"
+        }, 
+        {
+            "ProductName:": "gssproxy.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "0.4.1-8.el7_2"
+        }, 
+        {
+            "ProductName:": "gzip.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.5-8.el7"
+        }, 
+        {
+            "ProductName:": "hardlink.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1:1.0-19.el7"
+        }, 
+        {
+            "ProductName:": "hostname.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "3.13-3.el7"
+        }, 
+        {
+            "ProductName:": "hwdata.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.252-8.1.el7"
+        }, 
+        {
+            "ProductName:": "info.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "5.1-4.el7"
+        }, 
+        {
+            "ProductName:": "initscripts.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "9.49.30-1.el7_2.3"
+        }, 
+        {
+            "ProductName:": "iproute.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "3.10.0-54.el7_2.1"
+        }, 
+        {
+            "ProductName:": "iprutils.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.4.8-1.el7"
+        }, 
+        {
+            "ProductName:": "iptables.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.4.21-16.el7"
+        }, 
+        {
+            "ProductName:": "iptraf-ng.x86_64", 
+            "Vendor": "@base", 
+            "Version:": "1.1.4-4.el7"
+        }, 
+        {
+            "ProductName:": "iputils.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "20121221-7.el7"
+        }, 
+        {
+            "ProductName:": "irqbalance.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "3:1.0.7-5.el7"
+        }, 
+        {
+            "ProductName:": "ivtv-firmware.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "2:20080701-26.el7"
+        }, 
+        {
+            "ProductName:": "iwl100-firmware.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "39.31.5.1-43.el7"
+        }, 
+        {
+            "ProductName:": "iwl1000-firmware.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "1:39.31.5.1-43.el7"
+        }, 
+        {
+            "ProductName:": "iwl105-firmware.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "18.168.6.1-43.el7"
+        }, 
+        {
+            "ProductName:": "iwl135-firmware.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "18.168.6.1-43.el7"
+        }, 
+        {
+            "ProductName:": "iwl2000-firmware.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "18.168.6.1-43.el7"
+        }, 
+        {
+            "ProductName:": "iwl2030-firmware.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "18.168.6.1-43.el7"
+        }, 
+        {
+            "ProductName:": "iwl3160-firmware.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "22.0.7.0-43.el7"
+        }, 
+        {
+            "ProductName:": "iwl3945-firmware.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "15.32.2.9-43.el7"
+        }, 
+        {
+            "ProductName:": "iwl4965-firmware.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "228.61.2.24-43.el7"
+        }, 
+        {
+            "ProductName:": "iwl5000-firmware.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "8.83.5.1_1-43.el7"
+        }, 
+        {
+            "ProductName:": "iwl5150-firmware.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "8.24.2.2-43.el7"
+        }, 
+        {
+            "ProductName:": "iwl6000-firmware.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "9.221.4.1-43.el7"
+        }, 
+        {
+            "ProductName:": "iwl6000g2a-firmware.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "17.168.5.3-43.el7"
+        }, 
+        {
+            "ProductName:": "iwl6000g2b-firmware.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "17.168.5.2-43.el7"
+        }, 
+        {
+            "ProductName:": "iwl6050-firmware.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "41.28.5.1-43.el7"
+        }, 
+        {
+            "ProductName:": "iwl7260-firmware.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "22.0.7.0-43.el7"
+        }, 
+        {
+            "ProductName:": "iwl7265-firmware.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "22.0.7.0-43.el7"
+        }, 
+        {
+            "ProductName:": "jansson.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.4-6.el7"
+        }, 
+        {
+            "ProductName:": "json-c.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.11-4.el7_0"
+        }, 
+        {
+            "ProductName:": "kbd.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.15.5-11.el7"
+        }, 
+        {
+            "ProductName:": "kbd-legacy.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.15.5-11.el7"
+        }, 
+        {
+            "ProductName:": "kbd-misc.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.15.5-11.el7"
+        }, 
+        {
+            "ProductName:": "kernel.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "3.10.0-327.28.3.el7"
+        }, 
+        {
+            "ProductName:": "kernel-headers.x86_64", 
+            "Vendor": "@updates", 
+            "Version:": "3.10.0-327.36.1.el7"
+        }, 
+        {
+            "ProductName:": "kernel-tools.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "3.10.0-327.28.3.el7"
+        }, 
+        {
+            "ProductName:": "kernel-tools-libs.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "3.10.0-327.28.3.el7"
+        }, 
+        {
+            "ProductName:": "kexec-tools.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "2.0.7-38.el7_2.1"
+        }, 
+        {
+            "ProductName:": "keyutils.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.5.8-3.el7"
+        }, 
+        {
+            "ProductName:": "keyutils-libs.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.5.8-3.el7"
+        }, 
+        {
+            "ProductName:": "kmod.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "20-5.el7"
+        }, 
+        {
+            "ProductName:": "kmod-libs.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "20-5.el7"
+        }, 
+        {
+            "ProductName:": "kpartx.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "0.4.9-85.el7_2.5"
+        }, 
+        {
+            "ProductName:": "krb5-libs.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "1.13.2-12.el7_2"
+        }, 
+        {
+            "ProductName:": "less.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "458-9.el7"
+        }, 
+        {
+            "ProductName:": "libacl.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.2.51-12.el7"
+        }, 
+        {
+            "ProductName:": "libaio.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.3.109-13.el7"
+        }, 
+        {
+            "ProductName:": "libassuan.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.1.0-3.el7"
+        }, 
+        {
+            "ProductName:": "libattr.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.4.46-12.el7"
+        }, 
+        {
+            "ProductName:": "libbasicobjects.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.1.1-25.el7"
+        }, 
+        {
+            "ProductName:": "libblkid.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "2.23.2-26.el7_2.3"
+        }, 
+        {
+            "ProductName:": "libcap.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.22-8.el7"
+        }, 
+        {
+            "ProductName:": "libcap-ng.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.7.5-4.el7"
+        }, 
+        {
+            "ProductName:": "libcollection.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.6.2-25.el7"
+        }, 
+        {
+            "ProductName:": "libcom_err.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.42.9-7.el7"
+        }, 
+        {
+            "ProductName:": "libcroco.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.6.8-5.el7"
+        }, 
+        {
+            "ProductName:": "libcurl.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "7.29.0-25.el7.centos"
+        }, 
+        {
+            "ProductName:": "libdaemon.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.14-7.el7"
+        }, 
+        {
+            "ProductName:": "libdb.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "5.3.21-19.el7"
+        }, 
+        {
+            "ProductName:": "libdb-utils.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "5.3.21-19.el7"
+        }, 
+        {
+            "ProductName:": "libdrm.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.4.60-3.el7"
+        }, 
+        {
+            "ProductName:": "libedit.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "3.0-12.20121213cvs.el7"
+        }, 
+        {
+            "ProductName:": "libestr.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.1.9-2.el7"
+        }, 
+        {
+            "ProductName:": "libevent.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.0.21-4.el7"
+        }, 
+        {
+            "ProductName:": "libffi.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "3.0.13-16.el7"
+        }, 
+        {
+            "ProductName:": "libgcc.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "4.8.5-4.el7"
+        }, 
+        {
+            "ProductName:": "libgcrypt.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.5.3-12.el7_1.1"
+        }, 
+        {
+            "ProductName:": "libgnome-keyring.x86_64", 
+            "Vendor": "@base", 
+            "Version:": "3.8.0-3.el7"
+        }, 
+        {
+            "ProductName:": "libgomp.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "4.8.5-4.el7"
+        }, 
+        {
+            "ProductName:": "libgpg-error.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.12-3.el7"
+        }, 
+        {
+            "ProductName:": "libgudev1.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "219-19.el7_2.12"
+        }, 
+        {
+            "ProductName:": "libidn.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.28-4.el7"
+        }, 
+        {
+            "ProductName:": "libini_config.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.2.0-25.el7"
+        }, 
+        {
+            "ProductName:": "libmnl.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.0.3-7.el7"
+        }, 
+        {
+            "ProductName:": "libmodman.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.0.1-8.el7"
+        }, 
+        {
+            "ProductName:": "libmount.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "2.23.2-26.el7_2.3"
+        }, 
+        {
+            "ProductName:": "libmpc.x86_64", 
+            "Vendor": "@base", 
+            "Version:": "1.0.1-3.el7"
+        }, 
+        {
+            "ProductName:": "libndp.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "1.2-6.el7_2"
+        }, 
+        {
+            "ProductName:": "libnetfilter_conntrack.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.0.4-2.el7"
+        }, 
+        {
+            "ProductName:": "libnfnetlink.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.0.1-4.el7"
+        }, 
+        {
+            "ProductName:": "libnfsidmap.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.25-12.el7"
+        }, 
+        {
+            "ProductName:": "libnl3.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "3.2.21-10.el7"
+        }, 
+        {
+            "ProductName:": "libnl3-cli.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "3.2.21-10.el7"
+        }, 
+        {
+            "ProductName:": "libpath_utils.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.2.1-25.el7"
+        }, 
+        {
+            "ProductName:": "libpcap.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "14:1.5.3-8.el7"
+        }, 
+        {
+            "ProductName:": "libpciaccess.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.13.4-2.el7"
+        }, 
+        {
+            "ProductName:": "libpipeline.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.2.3-3.el7"
+        }, 
+        {
+            "ProductName:": "libproxy.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.4.11-8.el7"
+        }, 
+        {
+            "ProductName:": "libpwquality.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.2.3-4.el7"
+        }, 
+        {
+            "ProductName:": "libref_array.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.1.5-25.el7"
+        }, 
+        {
+            "ProductName:": "libselinux.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.2.2-6.el7"
+        }, 
+        {
+            "ProductName:": "libselinux-python.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.2.2-6.el7"
+        }, 
+        {
+            "ProductName:": "libselinux-utils.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.2.2-6.el7"
+        }, 
+        {
+            "ProductName:": "libsemanage.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.1.10-18.el7"
+        }, 
+        {
+            "ProductName:": "libsepol.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.1.9-3.el7"
+        }, 
+        {
+            "ProductName:": "libsoup.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.48.1-3.el7"
+        }, 
+        {
+            "ProductName:": "libss.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.42.9-7.el7"
+        }, 
+        {
+            "ProductName:": "libssh2.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "1.4.3-10.el7_2.1"
+        }, 
+        {
+            "ProductName:": "libstdc++.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "4.8.5-4.el7"
+        }, 
+        {
+            "ProductName:": "libsysfs.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.1.0-16.el7"
+        }, 
+        {
+            "ProductName:": "libtalloc.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "2.1.5-1.el7_2"
+        }, 
+        {
+            "ProductName:": "libtasn1.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "3.8-2.el7"
+        }, 
+        {
+            "ProductName:": "libteam.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "1.17-6.el7_2"
+        }, 
+        {
+            "ProductName:": "libtevent.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "0.9.26-1.el7_2.1"
+        }, 
+        {
+            "ProductName:": "libtirpc.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.2.4-0.6.el7"
+        }, 
+        {
+            "ProductName:": "libunistring.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.9.3-9.el7"
+        }, 
+        {
+            "ProductName:": "libuser.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.60-7.el7_1"
+        }, 
+        {
+            "ProductName:": "libutempter.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.1.6-4.el7"
+        }, 
+        {
+            "ProductName:": "libuuid.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "2.23.2-26.el7_2.3"
+        }, 
+        {
+            "ProductName:": "libverto.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.2.5-4.el7"
+        }, 
+        {
+            "ProductName:": "libverto-tevent.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.2.5-4.el7"
+        }, 
+        {
+            "ProductName:": "libxml2.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "2.9.1-6.el7_2.3"
+        }, 
+        {
+            "ProductName:": "linux-firmware.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "20150904-43.git6ebf5d5.el7"
+        }, 
+        {
+            "ProductName:": "lm_sensors-libs.x86_64", 
+            "Vendor": "@base", 
+            "Version:": "3.3.4-11.el7"
+        }, 
+        {
+            "ProductName:": "logrotate.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "3.8.6-7.el7_2"
+        }, 
+        {
+            "ProductName:": "lshw.x86_64", 
+            "Vendor": "@base", 
+            "Version:": "B.02.17-5.el7"
+        }, 
+        {
+            "ProductName:": "lsscsi.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.27-3.el7"
+        }, 
+        {
+            "ProductName:": "lua.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "5.1.4-14.el7"
+        }, 
+        {
+            "ProductName:": "lvm2.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "7:2.02.130-5.el7_2.5"
+        }, 
+        {
+            "ProductName:": "lvm2-libs.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "7:2.02.130-5.el7_2.5"
+        }, 
+        {
+            "ProductName:": "lynx.x86_64", 
+            "Vendor": "@base", 
+            "Version:": "2.8.8-0.3.dev15.el7"
+        }, 
+        {
+            "ProductName:": "lzo.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.06-8.el7"
+        }, 
+        {
+            "ProductName:": "make.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1:3.82-21.el7"
+        }, 
+        {
+            "ProductName:": "man-db.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.6.3-9.el7"
+        }, 
+        {
+            "ProductName:": "man-pages.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "3.53-5.el7"
+        }, 
+        {
+            "ProductName:": "mariadb-libs.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "1:5.5.50-1.el7_2"
+        }, 
+        {
+            "ProductName:": "microcode_ctl.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "2:2.1-12.el7_2.1"
+        }, 
+        {
+            "ProductName:": "mozjs17.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "17.0.0-12.el7"
+        }, 
+        {
+            "ProductName:": "mpfr.x86_64", 
+            "Vendor": "@base", 
+            "Version:": "3.1.1-4.el7"
+        }, 
+        {
+            "ProductName:": "ncurses.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "5.9-13.20130511.el7"
+        }, 
+        {
+            "ProductName:": "ncurses-base.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "5.9-13.20130511.el7"
+        }, 
+        {
+            "ProductName:": "ncurses-libs.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "5.9-13.20130511.el7"
+        }, 
+        {
+            "ProductName:": "net-tools.x86_64", 
+            "Vendor": "@base", 
+            "Version:": "2.0-0.17.20131004git.el7"
+        }, 
+        {
+            "ProductName:": "nettle.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.7.1-4.el7"
+        }, 
+        {
+            "ProductName:": "newt.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.52.15-4.el7"
+        }, 
+        {
+            "ProductName:": "newt-python.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.52.15-4.el7"
+        }, 
+        {
+            "ProductName:": "nfs-utils.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "1:1.3.0-0.21.el7_2.1"
+        }, 
+        {
+            "ProductName:": "nspr.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "4.11.0-1.el7_2"
+        }, 
+        {
+            "ProductName:": "nss.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "3.21.0-9.el7_2"
+        }, 
+        {
+            "ProductName:": "nss-softokn.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "3.16.2.3-14.2.el7_2"
+        }, 
+        {
+            "ProductName:": "nss-softokn-freebl.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "3.16.2.3-14.2.el7_2"
+        }, 
+        {
+            "ProductName:": "nss-sysinit.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "3.21.0-9.el7_2"
+        }, 
+        {
+            "ProductName:": "nss-tools.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "3.21.0-9.el7_2"
+        }, 
+        {
+            "ProductName:": "nss-util.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "3.21.0-2.2.el7_2"
+        }, 
+        {
+            "ProductName:": "numactl-libs.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "2.0.9-6.el7_2"
+        }, 
+        {
+            "ProductName:": "openldap.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "2.4.40-9.el7_2"
+        }, 
+        {
+            "ProductName:": "openssh.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "6.6.1p1-25.el7_2"
+        }, 
+        {
+            "ProductName:": "openssh-clients.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "6.6.1p1-25.el7_2"
+        }, 
+        {
+            "ProductName:": "openssh-server.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "6.6.1p1-25.el7_2"
+        }, 
+        {
+            "ProductName:": "openssl.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "1:1.0.1e-51.el7_2.5"
+        }, 
+        {
+            "ProductName:": "openssl-libs.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "1:1.0.1e-51.el7_2.5"
+        }, 
+        {
+            "ProductName:": "os-prober.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.58-5.el7"
+        }, 
+        {
+            "ProductName:": "p11-kit.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.20.7-3.el7"
+        }, 
+        {
+            "ProductName:": "p11-kit-trust.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.20.7-3.el7"
+        }, 
+        {
+            "ProductName:": "pam.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.1.8-12.el7_1.1"
+        }, 
+        {
+            "ProductName:": "parted.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "3.1-23.el7"
+        }, 
+        {
+            "ProductName:": "passwd.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.79-4.el7"
+        }, 
+        {
+            "ProductName:": "pciutils-libs.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "3.2.1-4.el7"
+        }, 
+        {
+            "ProductName:": "pcre.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "8.32-15.el7_2.1"
+        }, 
+        {
+            "ProductName:": "perl.x86_64", 
+            "Vendor": "@base", 
+            "Version:": "4:5.16.3-286.el7"
+        }, 
+        {
+            "ProductName:": "perl-Carp.noarch", 
+            "Vendor": "@base", 
+            "Version:": "1.26-244.el7"
+        }, 
+        {
+            "ProductName:": "perl-Encode.x86_64", 
+            "Vendor": "@base", 
+            "Version:": "2.51-7.el7"
+        }, 
+        {
+            "ProductName:": "perl-Error.noarch", 
+            "Vendor": "@base", 
+            "Version:": "1:0.17020-2.el7"
+        }, 
+        {
+            "ProductName:": "perl-Exporter.noarch", 
+            "Vendor": "@base", 
+            "Version:": "5.68-3.el7"
+        }, 
+        {
+            "ProductName:": "perl-File-Path.noarch", 
+            "Vendor": "@base", 
+            "Version:": "2.09-2.el7"
+        }, 
+        {
+            "ProductName:": "perl-File-Temp.noarch", 
+            "Vendor": "@base", 
+            "Version:": "0.23.01-3.el7"
+        }, 
+        {
+            "ProductName:": "perl-Filter.x86_64", 
+            "Vendor": "@base", 
+            "Version:": "1.49-3.el7"
+        }, 
+        {
+            "ProductName:": "perl-Getopt-Long.noarch", 
+            "Vendor": "@base", 
+            "Version:": "2.40-2.el7"
+        }, 
+        {
+            "ProductName:": "perl-Git.noarch", 
+            "Vendor": "@updates", 
+            "Version:": "1.8.3.1-6.el7_2.1"
+        }, 
+        {
+            "ProductName:": "perl-HTTP-Tiny.noarch", 
+            "Vendor": "@base", 
+            "Version:": "0.033-3.el7"
+        }, 
+        {
+            "ProductName:": "perl-PathTools.x86_64", 
+            "Vendor": "@base", 
+            "Version:": "3.40-5.el7"
+        }, 
+        {
+            "ProductName:": "perl-Pod-Escapes.noarch", 
+            "Vendor": "@base", 
+            "Version:": "1:1.04-286.el7"
+        }, 
+        {
+            "ProductName:": "perl-Pod-Perldoc.noarch", 
+            "Vendor": "@base", 
+            "Version:": "3.20-4.el7"
+        }, 
+        {
+            "ProductName:": "perl-Pod-Simple.noarch", 
+            "Vendor": "@base", 
+            "Version:": "1:3.28-4.el7"
+        }, 
+        {
+            "ProductName:": "perl-Pod-Usage.noarch", 
+            "Vendor": "@base", 
+            "Version:": "1.63-3.el7"
+        }, 
+        {
+            "ProductName:": "perl-Scalar-List-Utils.x86_64", 
+            "Vendor": "@base", 
+            "Version:": "1.27-248.el7"
+        }, 
+        {
+            "ProductName:": "perl-Socket.x86_64", 
+            "Vendor": "@base", 
+            "Version:": "2.010-3.el7"
+        }, 
+        {
+            "ProductName:": "perl-Storable.x86_64", 
+            "Vendor": "@base", 
+            "Version:": "2.45-3.el7"
+        }, 
+        {
+            "ProductName:": "perl-TermReadKey.x86_64", 
+            "Vendor": "@base", 
+            "Version:": "2.30-20.el7"
+        }, 
+        {
+            "ProductName:": "perl-Text-ParseWords.noarch", 
+            "Vendor": "@base", 
+            "Version:": "3.29-4.el7"
+        }, 
+        {
+            "ProductName:": "perl-Time-HiRes.x86_64", 
+            "Vendor": "@base", 
+            "Version:": "4:1.9725-3.el7"
+        }, 
+        {
+            "ProductName:": "perl-Time-Local.noarch", 
+            "Vendor": "@base", 
+            "Version:": "1.2300-2.el7"
+        }, 
+        {
+            "ProductName:": "perl-constant.noarch", 
+            "Vendor": "@base", 
+            "Version:": "1.27-2.el7"
+        }, 
+        {
+            "ProductName:": "perl-libs.x86_64", 
+            "Vendor": "@base", 
+            "Version:": "4:5.16.3-286.el7"
+        }, 
+        {
+            "ProductName:": "perl-macros.x86_64", 
+            "Vendor": "@base", 
+            "Version:": "4:5.16.3-286.el7"
+        }, 
+        {
+            "ProductName:": "perl-parent.noarch", 
+            "Vendor": "@base", 
+            "Version:": "1:0.225-244.el7"
+        }, 
+        {
+            "ProductName:": "perl-podlators.noarch", 
+            "Vendor": "@base", 
+            "Version:": "2.5.1-3.el7"
+        }, 
+        {
+            "ProductName:": "perl-threads.x86_64", 
+            "Vendor": "@base", 
+            "Version:": "1.87-4.el7"
+        }, 
+        {
+            "ProductName:": "perl-threads-shared.x86_64", 
+            "Vendor": "@base", 
+            "Version:": "1.43-6.el7"
+        }, 
+        {
+            "ProductName:": "pinentry.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.8.1-14.el7"
+        }, 
+        {
+            "ProductName:": "pkgconfig.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1:0.27.1-4.el7"
+        }, 
+        {
+            "ProductName:": "plymouth.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.8.9-0.24.20140113.el7.centos"
+        }, 
+        {
+            "ProductName:": "plymouth-core-libs.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.8.9-0.24.20140113.el7.centos"
+        }, 
+        {
+            "ProductName:": "plymouth-scripts.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.8.9-0.24.20140113.el7.centos"
+        }, 
+        {
+            "ProductName:": "policycoreutils.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.2.5-20.el7"
+        }, 
+        {
+            "ProductName:": "polkit.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "0.112-7.el7_2"
+        }, 
+        {
+            "ProductName:": "polkit-pkla-compat.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.1-4.el7"
+        }, 
+        {
+            "ProductName:": "popt.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.13-16.el7"
+        }, 
+        {
+            "ProductName:": "postfix.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2:2.10.1-6.el7"
+        }, 
+        {
+            "ProductName:": "ppp.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.4.5-33.el7"
+        }, 
+        {
+            "ProductName:": "procps-ng.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "3.3.10-5.el7_2"
+        }, 
+        {
+            "ProductName:": "pth.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.0.7-23.el7"
+        }, 
+        {
+            "ProductName:": "pygobject3-base.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "3.14.0-3.el7"
+        }, 
+        {
+            "ProductName:": "pygpgme.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.3-9.el7"
+        }, 
+        {
+            "ProductName:": "pyliblzma.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.5.3-11.el7"
+        }, 
+        {
+            "ProductName:": "python.x86_64", 
+            "Vendor": "@updates", 
+            "Version:": "2.7.5-39.el7_2"
+        }, 
+        {
+            "ProductName:": "python-backports.x86_64", 
+            "Vendor": "@base", 
+            "Version:": "1.0-8.el7"
+        }, 
+        {
+            "ProductName:": "python-chardet.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.2.1-1.el7_1"
+        }, 
+        {
+            "ProductName:": "python-configobj.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "4.7.2-7.el7"
+        }, 
+        {
+            "ProductName:": "python-decorator.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "3.4.0-3.el7"
+        }, 
+        {
+            "ProductName:": "python-devel.x86_64", 
+            "Vendor": "@updates", 
+            "Version:": "2.7.5-39.el7_2"
+        }, 
+        {
+            "ProductName:": "python-iniparse.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.4-9.el7"
+        }, 
+        {
+            "ProductName:": "python-kitchen.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.1.1-5.el7"
+        }, 
+        {
+            "ProductName:": "python-libs.x86_64", 
+            "Vendor": "@updates", 
+            "Version:": "2.7.5-39.el7_2"
+        }, 
+        {
+            "ProductName:": "python-perf.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "3.10.0-327.28.3.el7"
+        }, 
+        {
+            "ProductName:": "python-pycurl.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "7.19.0-17.el7"
+        }, 
+        {
+            "ProductName:": "python-pyudev.noarch", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "0.15-7.el7_2.1"
+        }, 
+        {
+            "ProductName:": "python-setuptools.noarch", 
+            "Vendor": "@base", 
+            "Version:": "0.9.8-4.el7"
+        }, 
+        {
+            "ProductName:": "python-slip.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.4.0-2.el7"
+        }, 
+        {
+            "ProductName:": "python-slip-dbus.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.4.0-2.el7"
+        }, 
+        {
+            "ProductName:": "python-urlgrabber.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "3.10-7.el7"
+        }, 
+        {
+            "ProductName:": "python-virtualenv.noarch", 
+            "Vendor": "@base", 
+            "Version:": "1.10.1-2.el7"
+        }, 
+        {
+            "ProductName:": "pyxattr.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.5.1-5.el7"
+        }, 
+        {
+            "ProductName:": "qrencode-libs.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "3.4.1-3.el7"
+        }, 
+        {
+            "ProductName:": "quota.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "1:4.01-11.el7_2.1"
+        }, 
+        {
+            "ProductName:": "quota-nls.noarch", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "1:4.01-11.el7_2.1"
+        }, 
+        {
+            "ProductName:": "rdma.noarch", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "7.2_4.1_rc6-2.el7"
+        }, 
+        {
+            "ProductName:": "readline.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "6.2-9.el7"
+        }, 
+        {
+            "ProductName:": "rootfiles.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "8.1-11.el7"
+        }, 
+        {
+            "ProductName:": "rpcbind.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "0.2.0-33.el7_2.1"
+        }, 
+        {
+            "ProductName:": "rpm.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "4.11.3-17.el7"
+        }, 
+        {
+            "ProductName:": "rpm-build-libs.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "4.11.3-17.el7"
+        }, 
+        {
+            "ProductName:": "rpm-libs.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "4.11.3-17.el7"
+        }, 
+        {
+            "ProductName:": "rpm-python.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "4.11.3-17.el7"
+        }, 
+        {
+            "ProductName:": "rsync.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "3.0.9-17.el7"
+        }, 
+        {
+            "ProductName:": "rsyslog.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "7.4.7-12.el7"
+        }, 
+        {
+            "ProductName:": "sed.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "4.2.2-5.el7"
+        }, 
+        {
+            "ProductName:": "selinux-policy.noarch", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "3.13.1-60.el7_2.7"
+        }, 
+        {
+            "ProductName:": "selinux-policy-targeted.noarch", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "3.13.1-60.el7_2.7"
+        }, 
+        {
+            "ProductName:": "setup.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.8.71-6.el7"
+        }, 
+        {
+            "ProductName:": "shadow-utils.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2:4.1.5.1-18.el7"
+        }, 
+        {
+            "ProductName:": "shared-mime-info.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.1-9.el7"
+        }, 
+        {
+            "ProductName:": "slang.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.2.4-11.el7"
+        }, 
+        {
+            "ProductName:": "snappy.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.1.0-3.el7"
+        }, 
+        {
+            "ProductName:": "sqlite.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "3.7.17-8.el7"
+        }, 
+        {
+            "ProductName:": "sudo.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "1.8.6p7-17.el7_2"
+        }, 
+        {
+            "ProductName:": "sysstat.x86_64", 
+            "Vendor": "@base", 
+            "Version:": "10.1.5-7.el7"
+        }, 
+        {
+            "ProductName:": "systemd.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "219-19.el7_2.12"
+        }, 
+        {
+            "ProductName:": "systemd-libs.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "219-19.el7_2.12"
+        }, 
+        {
+            "ProductName:": "systemd-sysv.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "219-19.el7_2.12"
+        }, 
+        {
+            "ProductName:": "sysvinit-tools.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.88-14.dsf.el7"
+        }, 
+        {
+            "ProductName:": "tar.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2:1.26-29.el7"
+        }, 
+        {
+            "ProductName:": "tcp_wrappers.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "7.6-77.el7"
+        }, 
+        {
+            "ProductName:": "tcp_wrappers-libs.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "7.6-77.el7"
+        }, 
+        {
+            "ProductName:": "tcpdump.x86_64", 
+            "Vendor": "@base", 
+            "Version:": "14:4.5.1-3.el7"
+        }, 
+        {
+            "ProductName:": "teamd.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "1.17-6.el7_2"
+        }, 
+        {
+            "ProductName:": "traceroute.x86_64", 
+            "Vendor": "@base", 
+            "Version:": "3:2.0.19-5.el7"
+        }, 
+        {
+            "ProductName:": "trousers.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "0.3.13-1.el7"
+        }, 
+        {
+            "ProductName:": "tuned.noarch", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "2.5.1-4.el7_2.3"
+        }, 
+        {
+            "ProductName:": "tzdata.noarch", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "2016f-1.el7"
+        }, 
+        {
+            "ProductName:": "ustr.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.0.4-16.el7"
+        }, 
+        {
+            "ProductName:": "util-linux.x86_64", 
+            "Vendor": "@koji-override-1", 
+            "Version:": "2.23.2-26.el7_2.3"
+        }, 
+        {
+            "ProductName:": "vim-minimal.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2:7.4.160-1.el7"
+        }, 
+        {
+            "ProductName:": "virt-what.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.13-6.el7"
+        }, 
+        {
+            "ProductName:": "wget.x86_64", 
+            "Vendor": "@base", 
+            "Version:": "1.14-10.el7_0.1"
+        }, 
+        {
+            "ProductName:": "which.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "2.20-7.el7"
+        }, 
+        {
+            "ProductName:": "whois.x86_64", 
+            "Vendor": "@base", 
+            "Version:": "5.1.1-2.el7"
+        }, 
+        {
+            "ProductName:": "wpa_supplicant.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1:2.0-17.el7_1"
+        }, 
+        {
+            "ProductName:": "xfsprogs.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "3.2.2-2.el7"
+        }, 
+        {
+            "ProductName:": "xz.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "5.1.2-12alpha.el7"
+        }, 
+        {
+            "ProductName:": "xz-libs.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "5.1.2-12alpha.el7"
+        }, 
+        {
+            "ProductName:": "yum.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "3.4.3-132.el7.centos.0.1"
+        }, 
+        {
+            "ProductName:": "yum-metadata-parser.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.1.4-10.el7"
+        }, 
+        {
+            "ProductName:": "yum-plugin-fastestmirror.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.1.31-34.el7"
+        }, 
+        {
+            "ProductName:": "yum-utils.noarch", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.1.31-34.el7"
+        }, 
+        {
+            "ProductName:": "zlib.x86_64", 
+            "Vendor": "@anaconda", 
+            "Version:": "1.2.7-15.el7"
+        }
+    ]
+}

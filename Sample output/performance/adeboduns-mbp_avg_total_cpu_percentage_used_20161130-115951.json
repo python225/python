@@ -1,0 +1,37 @@
+{
+    "AverageValue: ": 1.24, 
+    "Duration: ": "20sec", 
+    "HostName: ": "adeboduns-mbp\n", 
+    "MaxValue: ": 1.6, 
+    "MinValue: ": 1.1, 
+    "PerformanceCounterCategory: ": "Cpu Percentage Used", 
+    "PerformanceCounterInstanceName: ": "Total", 
+    "PerformanceCounterLabel: ": "avg_cpu_usage_percent", 
+    "PerformanceCounterName: ": "Avg.Cpu_Percent_used", 
+    "RecordCount: ": 5, 
+    "ReportDateTime: ": "2016-11-30 11:59:26.225223"
+}
+{
+    "Values": [
+        [
+            "2016-11-30 11:59:31", 
+            1.2
+        ], 
+        [
+            "2016-11-30 11:59:36", 
+            1.1
+        ], 
+        [
+            "2016-11-30 11:59:41", 
+            1.1
+        ], 
+        [
+            "2016-11-30 11:59:46", 
+            1.6
+        ], 
+        [
+            "2016-11-30 11:59:51", 
+            1.2
+        ]
+    ]
+}

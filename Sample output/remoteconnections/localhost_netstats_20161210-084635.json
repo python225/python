@@ -1,0 +1,112 @@
+{
+    "active_connections": [
+        {
+            "Connection_Type": "UDP", 
+            "Local_Port": 323, 
+            "Remote-Port": "Null", 
+            "LocalHostName": "localhost", 
+            "LocalIP": "::1", 
+            "ReportDateTime": "2016-12-10 08:46:35.100850", 
+            "RemoteIP": "Null"
+        }, 
+        {
+            "Connection_Type": "TCP", 
+            "Local_Port": 22, 
+            "Remote_Port": 62773, 
+            "LocalHostName": "localhost", 
+            "LocalIP": "10.0.2.15", 
+            "ReportDateTime": "2016-12-10 08:46:35.100850", 
+            "RemoteIP": "10.0.2.2"
+        }, 
+        {
+            "Connection_Type": "TCP", 
+            "Local_Port": 22, 
+            "Remote-Port": "Null", 
+            "LocalHostName": "localhost", 
+            "LocalIP": "0.0.0.0", 
+            "ReportDateTime": "2016-12-10 08:46:35.100850", 
+            "RemoteIP": "Null"
+        }, 
+        {
+            "Connection_Type": "UDP", 
+            "Local_Port": 61179, 
+            "Remote-Port": "Null", 
+            "LocalHostName": "localhost", 
+            "LocalIP": "::", 
+            "ReportDateTime": "2016-12-10 08:46:35.100850", 
+            "RemoteIP": "Null"
+        }, 
+        {
+            "Connection_Type": "TCP", 
+            "Local_Port": 22, 
+            "Remote_Port": 50387, 
+            "LocalHostName": "localhost", 
+            "LocalIP": "10.0.2.15", 
+            "ReportDateTime": "2016-12-10 08:46:35.100850", 
+            "RemoteIP": "10.0.2.2"
+        }, 
+        {
+            "Connection_Type": "TCP", 
+            "Local_Port": 22, 
+            "Remote-Port": "Null", 
+            "LocalHostName": "localhost", 
+            "LocalIP": "::", 
+            "ReportDateTime": "2016-12-10 08:46:35.100850", 
+            "RemoteIP": "Null"
+        }, 
+        {
+            "Connection_Type": "TCP", 
+            "Local_Port": 25, 
+            "Remote-Port": "Null", 
+            "LocalHostName": "localhost", 
+            "LocalIP": "127.0.0.1", 
+            "ReportDateTime": "2016-12-10 08:46:35.100850", 
+            "RemoteIP": "Null"
+        }, 
+        {
+            "Connection_Type": "UDP", 
+            "Local_Port": 68, 
+            "Remote-Port": "Null", 
+            "LocalHostName": "localhost", 
+            "LocalIP": "0.0.0.0", 
+            "ReportDateTime": "2016-12-10 08:46:35.100850", 
+            "RemoteIP": "Null"
+        }, 
+        {
+            "Connection_Type": "UDP", 
+            "Local_Port": 323, 
+            "Remote-Port": "Null", 
+            "LocalHostName": "localhost", 
+            "LocalIP": "127.0.0.1", 
+            "ReportDateTime": "2016-12-10 08:46:35.100850", 
+            "RemoteIP": "Null"
+        }, 
+        {
+            "Connection_Type": "TCP", 
+            "Local_Port": 25, 
+            "Remote-Port": "Null", 
+            "LocalHostName": "localhost", 
+            "LocalIP": "::1", 
+            "ReportDateTime": "2016-12-10 08:46:35.100850", 
+            "RemoteIP": "Null"
+        }, 
+        {
+            "Connection_Type": "UDP", 
+            "Local_Port": 31843, 
+            "Remote-Port": "Null", 
+            "LocalHostName": "localhost", 
+            "LocalIP": "0.0.0.0", 
+            "ReportDateTime": "2016-12-10 08:46:35.100850", 
+            "RemoteIP": "Null"
+        }, 
+        {
+            "Connection_Type": "TCP", 
+            "Local_Port": 45520, 
+            "Remote_Port": 445, 
+            "LocalHostName": "localhost", 
+            "LocalIP": "10.0.2.15", 
+            "ReportDateTime": "2016-12-10 08:46:35.100850", 
+            "RemoteIP": "10.3.0.53"
+        }
+    ]
+}

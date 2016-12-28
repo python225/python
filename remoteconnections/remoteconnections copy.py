@@ -94,7 +94,7 @@ if __name__ == "__main__":
     all_values = {'active_connections':connections}
     od_all = collections.OrderedDict(sorted(all_values.items()))
     timestamp = time.strftime("%Y%m%d-%H%M%S")
-    path_network_shared_location = json.loads(open("/mnt/Backups/Ensight/configurations/config.json").read())["RemoteConnectionsDataNetworkShareRootPath"]
+    path_network_shared_location = json.loads(open("config.json file location").read())["RemoteConnectionsDataNetworkShareRootPath"]
     filename = os.path.expanduser(path_network_shared_location) + name_host.strip() + log_file_name_text + timestamp + '.json'
     file_handler = open(filename,'a+')
     text_json = json.dumps(od_all, indent=4)

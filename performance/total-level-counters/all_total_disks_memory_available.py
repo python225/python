@@ -16,7 +16,7 @@ import os
 Fetching the value of data collection time intervel from the config.json file 
 """
 
-counter_value = json.loads(open("/mnt/Backups/Ensight/configurations/serveragentconfig.json").read())["PerformanceDataCollectionTimeInterval"]
+counter_value = json.loads(open("config.json file location").read())["PerformanceDataCollectionTimeInterval"]
 
 
 """
@@ -104,7 +104,7 @@ if __name__ == "__main__":
     all_values = {'Duration: ':total_time,'PerformanceCounterCategory: ':countercategory,'PerformanceCounterInstanceName: ':instancename,'PerformanceCounterLabel: ':counterlable,'PerformanceCounterName: ':countername,'AverageValue: ':avg_value,'MaxValue: ':max_value,'MinValue: ':min_value,'RecordCount: ':RecordCount,'HostName: ':name_host,'ReportDateTime: ':time_stamp_value,'IPAddress: ':ip_value}
     od_all = collections.OrderedDict(sorted(all_values.items()))
     timestamp = time.strftime("%Y%m%d-%H%M%S")
-    path_network_shared_location = json.loads(open("/mnt/Backups/Ensight/configurations/serveragentconfig.json").read())["PerformanceDataNetworkShareRootPath"]
+    path_network_shared_location = json.loads(open("config.json file location").read())["PerformanceDataNetworkShareRootPath"]
     filename = os.path.expanduser(path_network_shared_location) + name_host.strip() + log_file_name_text + timestamp + '.json'
     file_handler = open(filename,'a+') 
     text_json = json.dumps(od_all, indent=4)

@@ -1,0 +1,27 @@
+{
+    "eth0": [
+        {
+            "broadcast": "10.0.2.255", 
+            "netmask": "255.255.255.0", 
+            "inet": "10.0.2.15"
+        }, 
+        {
+            "MAC Address": "52:54:00:c5:83:ad"
+        }, 
+        {
+            "Recevied Bytes": "15177910 bytes"
+        }, 
+        {
+            "Transmitted Bytes": "14099923 bytes"
+        }, 
+        {
+            "DHCP status": "Dhcp disabled"
+        }, 
+        {
+            "Hostname": "localhost.localdomain"
+        }, 
+        {
+            "Reported Time&Date": "2016-12-10 09:45:28.553655"
+        }
+    ]
+}
